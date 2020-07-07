@@ -1,2 +1,4 @@
-C++/*.exe
+*.exe
 work
+.idea
+venv
